@@ -2,7 +2,8 @@
 using namespace std;
 /*ishan bansal
 201099308*
-non repeated numbers*/
+non repeated numbers
+question number 2*/
 int main()
 {
     int n;
