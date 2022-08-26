@@ -10,7 +10,7 @@ void findRepeat(int* a, int n){
     
     for(int i=0;i<n;i++){
         hash[a[i]]++;
-    }
+    }/* increase number*/
     
     cout<<"repeated Number    frequency\n";
    
