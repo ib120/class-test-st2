@@ -10,7 +10,7 @@ void findRepeat(int* a, int n){
     
     for(int i=0;i<n;i++){
         hash[a[i]]++;
-    }/* increase number*/
+    }/* increase numbern by 1 */
     
     cout<<"repeated Number    frequency\n";
    
@@ -19,7 +19,7 @@ void findRepeat(int* a, int n){
     cout<<it->first<<"                  "<<it->second<<endl;
     
 }
-
+/* print it out first*/
 int main()
 {
     int n;
