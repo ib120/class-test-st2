@@ -2,7 +2,7 @@
 using namespace std;
 /*ishan bansal
 201099308*
-non repeated numbers/
+non repeated numbers*/
 int main()
 {
     int n;
@@ -11,6 +11,7 @@ int main()
     for(int i=0;i<n;i++){
         cin>>arr[i];
     }
+    /* i++ increase by 1*/
     
     sort(arr,arr+n);
     for(int i=0;i<n;i++){
