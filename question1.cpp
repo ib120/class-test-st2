@@ -3,7 +3,8 @@ using namespace std;
 /*ishan bansal
 201099308*
 non repeated numbers
-question number 1*/
+question number 1
+set number 1*/
 int main()
 {
     int n;
