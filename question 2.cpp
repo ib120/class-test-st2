@@ -1,6 +1,7 @@
 /*ishan bansal
 2010990308
-question number 2*/
+question number 2
+set number 1*/
 #include <bits/stdc++.h>
 
 using namespace std;
